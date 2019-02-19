@@ -1,0 +1,139 @@
+
+
+@font-face {
+  font-family: punk;
+  src: url("punknd.ttf");
+
+}
+@font-face {
+  font-family: dirty;
+  src: url("DIRTYEGO.ttf");
+
+}
+
+@font-face {
+  font-family: anark;
+  src: url("anarko.ttf");
+
+}
+
+@font-face {
+  font-family: futu;
+  src: url("futu.ttf");
+
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-family: "punk";
+  font-weight: normal;
+  margin-top: 1%;
+  margin-bottom: 0%;
+}
+
+#myImage {
+  display: block;
+  margin-left: 27%;
+  margin-bottom: 0%;
+  width: 1000px; height: 400px;
+}
+
+#name {
+  text-align: center;
+  margin-top: 0%;
+  font-size: 25px;
+  font-family: "dirty";
+}
+
+#demo6 {
+  text-align: center;
+  margin-top: 0%;
+  font-size: 75px;
+  font-family: "dirty";
+  font-weight: normal;
+}
+
+
+#text1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: "dirty";
+  margin-bottom: 0%;
+}
+
+#button1 {
+
+  outline: none;
+  background-color: Transparent;
+  border-width: 0px;
+  font-family: "futu";
+  font-weight: 200;;
+  color: black;
+  font-size: 80px;
+  padding: none;
+  cursor:pointer; cursor: hand;
+  text-decoration: none;
+}
+#button1:hover {
+
+  outline: none;
+  background-color: Transparent;
+  border-width: 0px;
+  font-family: "futu";
+  font-weight: 200;;
+  color: #797e82;
+  font-size: 100px;
+  padding: none;
+  cursor:pointer; cursor: hand;
+  text-decoration: none;
+}
+
+#char1 {
+  display: inline-block;
+  margin: auto;
+  font-size: 25px;
+  font-family: "dirty";
+}
+
+#dip {
+  text-align: center;
+}
+
+#button2 {
+    background-color: Transparent;
+  outline: 0px;
+  color: black;
+  font-size: 30px;
+  border-width: 0px;
+  font-family: "dirty";
+  cursor:pointer; cursor: hand;
+}
+#button3 {
+    background-color: Transparent;
+  outline: 0px;
+  color: black;
+  font-size: 30px;
+  border-width: 0px;
+  font-family: "dirty";
+  cursor:pointer; cursor: hand;
+}
+
+#demo_fallo {
+  text-align: center;
+  font-size: 25px;
+    font-weight: lighter;
+  font-family: "dirty";
+  margin-bottom: 0%;
+}
+
+#res {
+  text-align: center;
+  font-size: 70px;
+  font-family: "anark";
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+/*/home/alumnos/sfuente/3d/juegoahorcado*/
